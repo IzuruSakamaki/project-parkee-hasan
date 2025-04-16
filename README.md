@@ -13,6 +13,7 @@ Software Engineer Settlement Test
 
 # Answer
 ## Data Structure
+https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/01-data_structure
 
 ## Garbage Collection
 #### Question 1
@@ -34,6 +35,7 @@ Tidak ada potensi kebocoran memori dalam kode.
 - Setelah method selesai, semua objek akan dilepas dari scope dan bisa dikumpulkan oleh GC jika tidak direferensikan dari tempat lain.
 
 ## Shell Script
+https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/03-shell_script
 
 ## Production Issue
 #### Identifikasi Isu
@@ -51,4 +53,7 @@ Tidak ada potensi kebocoran memori dalam kode.
 - Melakukan **Root Cause Analysis (RCA)**
 
 ## Data Scripting
+https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/05-data_scripting
+
 ## Parking Application
+https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/06-parking_application/backoffice
