@@ -1,0 +1,7 @@
+CREATE TABLE prices (
+    id SERIAL PRIMARY KEY,
+    price NUMERIC(6,0) NOT NULL CHECK (price >= 0),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+INSERT INTO prices (price) VALUES (3000);
