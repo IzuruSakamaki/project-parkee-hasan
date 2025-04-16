@@ -56,4 +56,4 @@ https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/03-shell_scrip
 https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/05-data_scripting
 
 ## Parking Application
-https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/06-parking_application/backoffice
+https://github.com/IzuruSakamaki/project-parkee-hasan/tree/master/06-parking_application
